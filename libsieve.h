@@ -1,0 +1,1 @@
+void sieve(long ,long *);
