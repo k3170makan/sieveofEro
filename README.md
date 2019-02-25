@@ -1,15 +1,15 @@
-#Sieve of Eratosthenes
+# Sieve of Eratosthenes
 
 This project is a simple C implemenation of sieve of Era.
 
 
-##Building
+## Building
 
 ```
 make
 ```
 
-##Running
+## Running
 
 ```
 ./sieve_impl.elf [prime generation limit]
